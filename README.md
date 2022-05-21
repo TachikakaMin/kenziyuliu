@@ -2,7 +2,7 @@
 
 
 
-[![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenziyuliu&bg_color=30,6190e8,a7bfe8&title_color=fff&text_color=fff)](https://kenziyuliu.github.io)
+<!-- [![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenziyuliu&bg_color=30,6190e8,a7bfe8&title_color=fff&text_color=fff)](https://kenziyuliu.github.io) -->
 <!-- [![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenziyuliu&bg_color=30,FC5C7D,6A82FB&title_color=fff&text_color=fff)](https://kenziyuliu.github.io) -->
 
 <!-- 
